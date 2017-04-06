@@ -34,6 +34,11 @@ nav li {
 
 a {
   color: #7B9694;
+  text-decoration: none
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 a:visited {
