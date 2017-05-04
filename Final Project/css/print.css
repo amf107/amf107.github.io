@@ -1,0 +1,51 @@
+* {
+  background: transparent; !important
+  color: black;
+  font-family: serif;
+  font-size: 11pt;
+}
+
+@page {
+  margin: 0.5in;
+}
+
+.print-link {
+  display: none;
+}
+
+address {
+  text-align: center;
+}
+
+nav{
+ display: none;
+}
+
+h1, h2 {
+  margin: 0;
+}
+
+h1 {
+  font-size: 30pt;
+  text-align: center;
+}
+
+h2 {
+  font-size: 16pt;
+  border-bottom: 2pt solid black;
+  margin-bottom: 0.2in;
+}
+
+h3 {
+  margin: 0;
+  font-size: 13pt;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+section {
+  margin-bottom: 0.3in;
+}
